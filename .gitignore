@@ -1,0 +1,28 @@
+# Ignore Python cache and temporary files
+__pycache__/
+*.py[cod]
+
+# Ignore environment and dependency files
+env/
+.venv/
+*.env
+
+# Ignore directories for extracted and processed files
+unzipped_folder/
+images_db/
+pdf_db/
+txt_file_db/
+
+# Ignore any Gradio-related files or cache
+.gradio/
+
+# Ignore model checkpoints, vector stores, and generated data files
+*.pkl
+*.pt
+
+# Ignore common system and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.ipynb_checkpoints/

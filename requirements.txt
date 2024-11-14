@@ -1,0 +1,13 @@
+torch
+transformers
+bitsandbytes
+langchain
+accelerate
+faiss-cpu
+sentence-transformers
+pypdf
+langchain_community
+gradio
+easyocr
+opencv-python-headless
+pickle-mixin
